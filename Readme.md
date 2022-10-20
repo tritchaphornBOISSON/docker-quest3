@@ -1,6 +1,6 @@
-##Docker Quest 3
+## Docker Quest 3
 
-###Lunch the application on developer mode.
+### Lunch the application on developer mode.
 
 Run:
 
